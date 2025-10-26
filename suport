@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HRlynx Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f9fc;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1f4aff;
+      color: white;
+      text-align: center;
+      padding: 1.5rem 1rem;
+    }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #1f4aff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>HRlynx App Support</h1>
+  </header>
+  <main>
+    <p>
+      Welcome to the HRlynx Support page.  
+      If you experience any issues using our app, please reach out to us — we’re here to help.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      📧 Email: <a href="mailto:hrlynx.support@gmail.com">hrlynx.support@gmail.com</a>
+    </p>
+    <p>
+      🌐 Website: <a href="https://hrlynx.com" target="_blank">https://hrlynx.com</a>
+    </p>
+
+    <h2>Business Hours</h2>
+    <p>Monday – Friday: 9 AM – 6 PM (GMT+6)</p>
+
+    <h2>About HRlynx</h2>
+    <p>
+      HRlynx is an intelligent HR assistant app that helps organizations stay compliant,  
+      manage people efficiently, and access AI-driven insights.
+    </p>
+
+    <footer style="margin-top: 2rem; text-align: center; font-size: 0.9rem; color: #666;">
+      © 2025 HRlynx. All rights reserved.
+    </footer>
+  </main>
+</body>
+</html>
